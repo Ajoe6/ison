@@ -32,7 +32,7 @@ ul li{
 }
 
 ul li a{
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     text-decoration: none;
     color: darkslategray;
@@ -51,12 +51,12 @@ ul li a:hover{
 }
 
 .info h1{
-    font-size: 65px;
+    font-size: 75px;
     color: rgb(36,32,30);
 }
 
 .info h3{
-    font-size: 21px;
+    font-size: 35px;
     letter-spacing: 1px;
     line-height: 24px;
 }
@@ -80,6 +80,7 @@ ul li a:hover{
     border-radius: 10px;
     display: inline-block;
     transition: .4s ease;
+    font-size: 20px;
 }
 
 .info c{
@@ -91,6 +92,7 @@ ul li a:hover{
     border-radius: 20px;
     display: inline-block;
     transition: .4s ease;
+    font-size: 20px;
 }
 
 .info a:hover{
@@ -131,7 +133,7 @@ ul li a:hover{
     margin-left: 7%;
     color: #000;
     margin-right: -60px;
-    font-size: 40px;
+    font-size: 45px;
     transition: .4s ease;
     
 }
@@ -143,7 +145,7 @@ ul li a:hover{
 .info2{
     margin-left: 5%;
     margin-top: 10px;
-    font-size: 17px;
+    font-size: 30px;
     letter-spacing: 2px;
     line-height: 5px;
 
@@ -152,6 +154,6 @@ ul li a:hover{
 .about{
     margin-left: 6%;
     margin-top: 10px;
-    font-size: 19px;
+    font-size: 25px;
     letter-spacing: 2px;
 }
